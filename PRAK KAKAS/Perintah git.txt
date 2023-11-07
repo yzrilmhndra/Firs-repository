@@ -1,0 +1,7 @@
+1. git config --global user.email "yusrilucci2002@gmail.com" 
+2. git init (untuk menjadikan folder git)
+3. git remote add origin https://github.com/yzrilmhndra/Firs-repository.git (untuk melakukan remote terhadap repository kita)
+4. git add . (menambahkan semua file atau folder yang ada di repository)
+5. git commit -m "first commit" 
+6. git push (untuk memindahkan file ke dalam repository kita)
+7. git full (untuk meng-abdate data sesuai yang ada di reposiroty) 
